@@ -57,7 +57,7 @@ Experience
       <br/><br/>
      ~ [librdkafka-d](https://github.com/tamediadigital/librdkafka-d) - object oriented Kafka wrapper on top of librdkafka (Apache Kafka C/C++ library). 
       <br/><br/>
-     ~ [JE (json extract)](https://github.com/tamediadigital/librdkafka-d) - a tool to extract data from json. 
+     ~ [JE (json extract)](https://github.com/tamediadigital/je) - a tool to extract data from json. 
       <br/><br/>
      ~ [vibe-s3](https://github.com/tamediadigital/vibe-s3) - AWS client library for the D programming language. 
       <br/><br/>

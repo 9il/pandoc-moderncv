@@ -86,7 +86,7 @@ ifeq ($(HTMLTOPDF),wkpdf)
 else
 	wkhtmltopdf --print-media-type --orientation Portrait --page-size A4 --margin-top 15 --margin-left 15 --margin-right 15 --margin-bottom 15 $(DIST_DIR)/IlyaYaroshenkoCV.html $(DIST_DIR)/IlyaYaroshenkoCV.pdf
 endif
-	exiftool $(shell cat $(BUILD_DIR)/pdftags.txt) $(DIST_DIR)/cv.pdf
+	exiftool $(shell cat $(BUILD_DIR)/pdftags.txt) $(DIST_DIR)/IlyaYaroshenkoCV.pdf
 
 pdftags: $(SRC_DIR)/cv.md
 	pandoc \
