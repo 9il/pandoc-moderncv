@@ -1,6 +1,6 @@
 ---
 lang: en
-title: IT consultant, Engineer, Data Science Analyst
+title: IT consultant
 firstname: Ilya
 lastname: Yaroshenko
 <!--photo: images/picture.png-->
