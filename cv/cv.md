@@ -88,7 +88,7 @@ Experience
 		<br/><br/>
 
     Projects
-      ~ Database production of retail sales audit of additional pharmaceutical assortment in Russian Federation. The project included workflow optimisation between departments in Moscow office as well as between Moscow office and foreign companies' offices. Commutative workforce was increased approximately one hundred times.
+      ~ Database production of retail sales audit of additional pharmaceutical assortment in Russian Federation. The project included workflow optimisation between departments in Moscow office as well as between Moscow office and foreign companies' offices. Comulative workforce was increased approximately one hundred times.
 		<br/><br/>
       ~ An address search engine (hierarchical database & web-server) based on [*Federal Information Address System*](http://fias.nalog.ru/).
 		<br/><br/>
